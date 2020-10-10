@@ -21,6 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d47e9e48-578c-4144-be66-b59ea1a8c541" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+>>>>>>> 236cd5b293de29d451116c0fa234c889acaad7cf
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +65,7 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+<<<<<<< HEAD
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -69,6 +75,8 @@
         </entry>
       </map>
     </option>
+=======
+>>>>>>> 236cd5b293de29d451116c0fa234c889acaad7cf
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

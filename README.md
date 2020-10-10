@@ -1,8 +1,8 @@
 ## Sprint-10
-### tony-developer.github.io "site Sprint-10"
+### https://tony-developer.github.io
 
 ****************************
-v0.0.1
-В проекте используется HTML и CSS
+v 0.0.1  
+В проекте используется HTML и CSS  
 Для запуска сайта просто перейдите по ссылке из шапки файла readme.md
 
